@@ -372,12 +372,13 @@ This project is created for educational purposes as part of the UAP (Ujian Akhir
 ##  Support
 
 For questions or issues, please contact:
-- Email: [your-email@example.com]
-- GitHub Issues: [repository-url]/issues
+- Email: Shafiafzalehrari@gmail.com
+- GitHub Issues: ...
 
 ---
 
-**Last Updated:** December 2024  
+**Last Updated:** December 2025  
 **Version:** 1.0.0
+
 
 
