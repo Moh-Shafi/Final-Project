@@ -325,7 +325,7 @@ PL/
 
 ---
 
-## 👥 Contributors
+##  Contributors
 
 **Team Members:**
 - [Your Name 1]
@@ -379,4 +379,5 @@ For questions or issues, please contact:
 
 **Last Updated:** December 2024  
 **Version:** 1.0.0
+
 
