@@ -2,12 +2,12 @@
 ## سیستم مدیریت دانشجویان
 
 **Version:** 1.0  
-**Date:** December 2024  
+**Date:** December 2025  
 **Course:** Pemrograman Lanjut - UAP (Ujian Akhir Praktikum)
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Technical Specifications](#technical-specifications)
@@ -20,7 +20,7 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 Student Management System is a desktop application built with **Java Swing** that provides a comprehensive solution for managing student records. The application implements full CRUD operations (Create, Read, Update, Delete) with persistent data storage using CSV files.
 
@@ -28,7 +28,7 @@ Student Management System is a desktop application built with **Java Swing** tha
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 1. **Dashboard (صفحه اصلی)**
 - Welcome screen with navigation menu
@@ -71,7 +71,7 @@ Student Management System is a desktop application built with **Java Swing** tha
 
 ---
 
-## 🛠 Technical Specifications
+##  Technical Specifications
 
 ### Requirements
 - **Java Development Kit (JDK)**: Version 8 or higher
@@ -99,7 +99,7 @@ Student Management System is a desktop application built with **Java Swing** tha
 
 ---
 
-## 📥 Installation & Setup
+##  Installation & Setup
 
 ### Step 1: Clone the Repository
 ```bash
@@ -125,7 +125,7 @@ java StudentManagementApp
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### Method 1: Command Line
 1. Open terminal/command prompt
@@ -162,7 +162,7 @@ java -jar StudentManagementApp.jar
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 PL/
@@ -193,7 +193,7 @@ PL/
 
 ---
 
-## 📖 Usage Guide
+##  Usage Guide
 
 ### Adding a New Student
 1. Click **"Add Student"** button from Dashboard or Student List
@@ -242,7 +242,7 @@ PL/
 
 ---
 
-## 🧪 Testing Documentation
+##  Testing Documentation
 
 ### Manual Testing Scenarios
 
@@ -257,7 +257,7 @@ PL/
 - Data is saved to `students_data.csv`
 - Success message is displayed
 
-**Status:** ✅ Passed
+**Status:**  Passed
 
 #### Test Case 2: Duplicate ID Prevention
 **Steps:**
@@ -268,7 +268,7 @@ PL/
 - Error message: "شماره دانشجویی قبلاً ثبت شده است"
 - Student is not added
 
-**Status:** ✅ Passed
+**Status:**  Passed
 
 #### Test Case 3: Invalid GPA
 **Steps:**
@@ -279,7 +279,7 @@ PL/
 - Error message: "معدل باید بین 0.00 تا 4.00 باشد"
 - Form is not submitted
 
-**Status:** ✅ Passed
+**Status:**  Passed
 
 #### Test Case 4: Search Functionality
 **Steps:**
@@ -291,7 +291,7 @@ PL/
 - Only matching students are displayed
 - Search works on all fields
 
-**Status:** ✅ Passed
+**Status:**  Passed
 
 #### Test Case 5: Data Persistence
 **Steps:**
@@ -303,7 +303,7 @@ PL/
 - All changes are preserved
 - Data loads correctly from CSV file
 
-**Status:** ✅ Passed
+**Status:**  Passed
 
 ### Code Review Findings
 
@@ -340,7 +340,7 @@ PL/
 
 ---
 
-## 📝 Notes
+##  Notes
 
 ### Data File Format
 The `students_data.csv` file uses the following format:
@@ -363,13 +363,13 @@ StudentID,Name,Major,GPA,EnrollmentDate,Email
 
 ---
 
-## 📄 License
+##  License
 
 This project is created for educational purposes as part of the UAP (Ujian Akhir Praktikum) for Pemrograman Lanjut course.
 
 ---
 
-## 📞 Support
+##  Support
 
 For questions or issues, please contact:
 - Email: [your-email@example.com]
@@ -379,3 +379,4 @@ For questions or issues, please contact:
 
 **Last Updated:** December 2024  
 **Version:** 1.0.0
+
