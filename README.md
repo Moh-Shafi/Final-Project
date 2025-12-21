@@ -328,8 +328,7 @@ PL/
 ##  Contributors
 
 **Team Members:**
-- [Your Name 1]
-- [Your Name 2]
+abdul shafi afzal ehrari 484
 
 **Supervisor:**
 - Ir. Wildan Suharso, M.Kom.
@@ -379,6 +378,7 @@ For questions or issues, please contact:
 
 **Last Updated:** December 2025  
 **Version:** 1.0.0
+
 
 
 
